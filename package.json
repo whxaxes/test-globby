@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "globby": "^10.0.0"
+  }
+}

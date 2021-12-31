@@ -1,0 +1,7 @@
+{
+  "name": "aaa",
+  "dependencies": {
+    "egg": "*",
+    "egg-bin": "*"
+  }
+}
